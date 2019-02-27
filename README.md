@@ -5,7 +5,8 @@ Sentiment Analyzer is an application that classifies the sentiment of the provid
 This is a Simple Application to explore NLTK Naive Bayes Classifier and use it in Sentiment Analysis.
 
 # Dependencies
-NLTK is the only Dependency :)
+tkinter for GUI (Graphical User Interface)
+NLTK for Overall Classification.
 
 # Usage
 Run ```python main.py``` to see the resulting GUI.
